@@ -109,6 +109,9 @@ h1:hover{
     
 
 }
+.final{
+    color: white;
+}
 
 .final:hover{
     color:cyan ;
